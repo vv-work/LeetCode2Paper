@@ -29,6 +29,8 @@ share/python-wheels/
 htmlcov/
 .tox/
 .nox/
+coverage.xml
+*.cover
 
 # Virtual environments
 .venv/
@@ -40,3 +42,27 @@ venv.bak/
 # OS
 .DS_Store
 Thumbs.db
+
+# Type checking / lint caches
+.mypy_cache/
+.pyrightcache/
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# dotenv / local config
+.env
+.env.*
+.python-version
+
+# Generic caches and logs
+.cache/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

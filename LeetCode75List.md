@@ -1,353 +1,195 @@
+# LeetCode 75
 
-LeetCode 75
+## 01. Array / String
 
-4
+- [Merge Strings Alternately](01_Array_String/Merge_Strings_Alternately.md) — Easy
 
-/
+- [Greatest Common Divisor of Strings](01_Array_String/Greatest_Common_Divisor_of_Strings.md) — Easy
 
-75
+- [Kids With the Greatest Number of Candies](01_Array_String/Kids_With_the_Greatest_Number_of_Candies.md) — Easy
 
-Array / String
+- [Can Place Flowers](01_Array_String/Can_Place_Flowers.md) — Easy
 
-Merge Strings Alternately
+- [Reverse Vowels of a String](01_Array_String/Reverse_Vowels_of_a_String.md) — Easy
 
-Easy
+- [Reverse Words in a String](01_Array_String/Reverse_Words_in_a_String.md) — Medium
 
-Greatest Common Divisor of Strings
+- [Product of Array Except Self](01_Array_String/Product_of_Array_Except_Self.md) — Medium
 
-Easy
+- [Increasing Triplet Subsequence](01_Array_String/Increasing_Triplet_Subsequence.md) — Medium
 
-Kids With the Greatest Number of Candies
+- [String Compression](01_Array_String/String_Compression.md) — Medium
 
-Easy
+## 02. Two Pointers
 
-Can Place Flowers
+- [Move Zeroes](02_Two_Pointers/Move_Zeroes.md) — Easy
 
-Easy
+- [Is Subsequence](02_Two_Pointers/Is_Subsequence.md) — Easy
 
-Reverse Vowels of a String
+- [Container With Most Water](02_Two_Pointers/Container_With_Most_Water.md) — Medium
 
-Easy
+- [Max Number of K-Sum Pairs](02_Two_Pointers/Max_Number_of_K-Sum_Pairs.md) — Medium
 
-Reverse Words in a String
+## 03. Sliding Window
 
-Medium
+- [Maximum Average Subarray I](03_Sliding_Window/Maximum_Average_Subarray_I.md) — Easy
 
-Product of Array Except Self
+- [Maximum Number of Vowels in a Substring of Given Length](03_Sliding_Window/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.md) — Medium
 
-Medium
+- [Max Consecutive Ones III](03_Sliding_Window/Max_Consecutive_Ones_III.md) — Medium
 
-Increasing Triplet Subsequence
+- [Longest Subarray of 1's After Deleting One Element](03_Sliding_Window/Longest_Subarray_of_1s_After_Deleting_One_Element.md) — Medium
 
-Medium
+## 04. Prefix Sum
 
-String Compression
+- [Find the Highest Altitude](04_Prefix_Sum/Find_the_Highest_Altitude.md) — Easy
 
-Medium
+- [Find Pivot Index](04_Prefix_Sum/Find_Pivot_Index.md) — Easy
 
-Two Pointers
+## 05. Hash Map / Set
 
-Move Zeroes
+- [Find the Difference of Two Arrays](05_Hash_Map_Set/Find_the_Difference_of_Two_Arrays.md) — Easy
 
-Easy
+- [Unique Number of Occurrences](05_Hash_Map_Set/Unique_Number_of_Occurrences.md) — Easy
 
-Is Subsequence
+- [Determine if Two Strings Are Close](05_Hash_Map_Set/Determine_if_Two_Strings_Are_Close.md) — Medium
 
-Easy
+- [Equal Row and Column Pairs](05_Hash_Map_Set/Equal_Row_and_Column_Pairs.md) — Medium
 
-Container With Most Water
+## 06. Stack
 
-Medium
+- [Removing Stars From a String](06_Stack/Removing_Stars_From_a_String.md) — Medium
 
-Max Number of K-Sum Pairs
+- [Asteroid Collision](06_Stack/Asteroid_Collision.md) — Medium
 
-Medium
+- [Decode String](06_Stack/Decode_String.md) — Medium
 
-Sliding Window
+## 07. Queue
 
-Maximum Average Subarray I
+- [Number of Recent Calls](07_Queue/Number_of_Recent_Calls.md) — Easy
 
-Easy
+- [Dota2 Senate](07_Queue/Dota2_Senate.md) — Medium
 
-Maximum Number of Vowels in a Substring of Given Length
+## 08. Linked List
 
-Medium
+- [Delete the Middle Node of a Linked List](08_Linked_List/Delete_the_Middle_Node_of_a_Linked_List.md) — Medium
 
-Max Consecutive Ones III
+- [Odd Even Linked List](08_Linked_List/Odd_Even_Linked_List.md) — Medium
 
-Medium
+- [Reverse Linked List](08_Linked_List/Reverse_Linked_List.md) — Easy
 
-Longest Subarray of 1's After Deleting One Element
+- [Maximum Twin Sum of a Linked List](08_Linked_List/Maximum_Twin_Sum_of_a_Linked_List.md) — Medium
 
-Medium
+## 09. Binary Tree - DFS
 
-Prefix Sum
+- [Maximum Depth of Binary Tree](09_Binary_Tree_DFS/Maximum_Depth_of_Binary_Tree.md) — Easy
 
-Find the Highest Altitude
+- [Leaf-Similar Trees](09_Binary_Tree_DFS/Leaf-Similar_Trees.md) — Easy
 
-Easy
+- [Count Good Nodes in Binary Tree](09_Binary_Tree_DFS/Count_Good_Nodes_in_Binary_Tree.md) — Medium
 
-Find Pivot Index
+- [Path Sum III](09_Binary_Tree_DFS/Path_Sum_III.md) — Medium
 
-Easy
+- [Longest ZigZag Path in a Binary Tree](09_Binary_Tree_DFS/Longest_ZigZag_Path_in_a_Binary_Tree.md) — Medium
 
-Hash Map / Set
+- [Lowest Common Ancestor of a Binary Tree](09_Binary_Tree_DFS/Lowest_Common_Ancestor_of_a_Binary_Tree.md) — Medium
 
-Find the Difference of Two Arrays
+## 10. Binary Tree - BFS
 
-Easy
+- [Binary Tree Right Side View](10_Binary_Tree_BFS/Binary_Tree_Right_Side_View.md) — Medium
 
-Unique Number of Occurrences
+- [Maximum Level Sum of a Binary Tree](10_Binary_Tree_BFS/Maximum_Level_Sum_of_a_Binary_Tree.md) — Medium
 
-Easy
+## 11. Binary Search Tree
 
-Determine if Two Strings Are Close
+- [Search in a Binary Search Tree](11_Binary_Search_Tree/Search_in_a_Binary_Search_Tree.md) — Easy
 
-Medium
+- [Delete Node in a BST](11_Binary_Search_Tree/Delete_Node_in_a_BST.md) — Medium
 
-Equal Row and Column Pairs
+## 12. Graphs - DFS
 
-Medium
+- [Keys and Rooms](12_Graphs_DFS/Keys_and_Rooms.md) — Medium
 
-Stack
+- [Number of Provinces](12_Graphs_DFS/Number_of_Provinces.md) — Medium
 
-Removing Stars From a String
+- [Reorder Routes to Make All Paths Lead to the City Zero](12_Graphs_DFS/Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.md) — Medium
 
-Medium
+- [Evaluate Division](12_Graphs_DFS/Evaluate_Division.md) — Medium
 
-Asteroid Collision
+## 13. Graphs - BFS
 
-Medium
+- [Nearest Exit from Entrance in Maze](13_Graphs_BFS/Nearest_Exit_from_Entrance_in_Maze.md) — Medium
 
-Decode String
+- [Rotting Oranges](13_Graphs_BFS/Rotting_Oranges.md) — Medium
 
-Medium
+## 14. Heap / Priority Queue
 
-Queue
+- [Kth Largest Element in an Array](14_Heap_Priority_Queue/Kth_Largest_Element_in_an_Array.md) — Medium
 
-Number of Recent Calls
+- [Smallest Number in Infinite Set](14_Heap_Priority_Queue/Smallest_Number_in_Infinite_Set.md) — Medium
 
-Easy
+- [Maximum Subsequence Score](14_Heap_Priority_Queue/Maximum_Subsequence_Score.md) — Medium
 
-Dota2 Senate
+- [Total Cost to Hire K Workers](14_Heap_Priority_Queue/Total_Cost_to_Hire_K_Workers.md) — Medium
 
-Medium
+## 15. Binary Search
 
-Linked List
+- [Guess Number Higher or Lower](15_Binary_Search/Guess_Number_Higher_or_Lower.md) — Easy
 
-Delete the Middle Node of a Linked List
+- [Successful Pairs of Spells and Potions](15_Binary_Search/Successful_Pairs_of_Spells_and_Potions.md) — Medium
 
-Medium
+- [Find Peak Element](15_Binary_Search/Find_Peak_Element.md) — Medium
 
-Odd Even Linked List
+- [Koko Eating Bananas](15_Binary_Search/Koko_Eating_Bananas.md) — Medium
 
-Medium
+## 16. Backtracking
 
-Reverse Linked List
+- [Letter Combinations of a Phone Number](16_Backtracking/Letter_Combinations_of_a_Phone_Number.md) — Medium
 
-Easy
+- [Combination Sum III](16_Backtracking/Combination_Sum_III.md) — Medium
 
-Maximum Twin Sum of a Linked List
+## 17. DP - 1D
 
-Medium
+- [N-th Tribonacci Number](17_DP_1D/N-th_Tribonacci_Number.md) — Easy
 
-Binary Tree - DFS
+- [Min Cost Climbing Stairs](17_DP_1D/Min_Cost_Climbing_Stairs.md) — Easy
 
-Maximum Depth of Binary Tree
+- [House Robber](17_DP_1D/House_Robber.md) — Medium
 
-Easy
+- [Domino and Tromino Tiling](17_DP_1D/Domino_and_Tromino_Tiling.md) — Medium
 
-Leaf-Similar Trees
+## 18. DP - Multidimensional
 
-Easy
+- [Unique Paths](18_DP_Multidimensional/Unique_Paths.md) — Medium
 
-Count Good Nodes in Binary Tree
+- [Longest Common Subsequence](18_DP_Multidimensional/Longest_Common_Subsequence.md) — Medium
 
-Medium
+- [Best Time to Buy and Sell Stock with Transaction Fee](18_DP_Multidimensional/Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.md) — Medium
 
-Path Sum III
+- [Edit Distance](18_DP_Multidimensional/Edit_Distance.md) — Medium
 
-Medium
+## 19. Bit Manipulation
 
-Longest ZigZag Path in a Binary Tree
+- [Counting Bits](19_Bit_Manipulation/Counting_Bits.md) — Easy
 
-Medium
+- [Single Number](19_Bit_Manipulation/Single_Number.md) — Easy
 
-Lowest Common Ancestor of a Binary Tree
+- [Minimum Flips to Make a OR b Equal to c](19_Bit_Manipulation/Minimum_Flips_to_Make_a_OR_b_Equal_to_c.md) — Medium
 
-Medium
+## 20. Trie
 
-Binary Tree - BFS
+- [Implement Trie (Prefix Tree)](20_Trie/Implement_Trie_Prefix_Tree.md) — Medium
 
-Binary Tree Right Side View
+- [Search Suggestions System](20_Trie/Search_Suggestions_System.md) — Medium
 
-Medium
+## 21. Intervals
 
-Maximum Level Sum of a Binary Tree
+- [Non-overlapping Intervals](21_Intervals/Non-overlapping_Intervals.md) — Medium
 
-Medium
+- [Minimum Number of Arrows to Burst Balloons](21_Intervals/Minimum_Number_of_Arrows_to_Burst_Balloons.md) — Medium
 
-Binary Search Tree
+## 22. Monotonic Stack
 
-Search in a Binary Search Tree
+- [Daily Temperatures](22_Monotonic_Stack/Daily_Temperatures.md) — Medium
 
-Easy
-
-Delete Node in a BST
-
-Medium
-
-Graphs - DFS
-
-Keys and Rooms
-
-Medium
-
-Number of Provinces
-
-Medium
-
-Reorder Routes to Make All Paths Lead to the City Zero
-
-Medium
-
-Evaluate Division
-
-Medium
-
-Graphs - BFS
-
-Nearest Exit from Entrance in Maze
-
-Medium
-
-Rotting Oranges
-
-Medium
-
-Heap / Priority Queue
-
-Kth Largest Element in an Array
-
-Medium
-
-Smallest Number in Infinite Set
-
-Medium
-
-Maximum Subsequence Score
-
-Medium
-
-Total Cost to Hire K Workers
-
-Medium
-
-Binary Search
-
-Guess Number Higher or Lower
-
-Easy
-
-Successful Pairs of Spells and Potions
-
-Medium
-
-Find Peak Element
-
-Medium
-
-Koko Eating Bananas
-
-Medium
-
-Backtracking
-
-Letter Combinations of a Phone Number
-
-Medium
-
-Combination Sum III
-
-Medium
-
-DP - 1D
-
-N-th Tribonacci Number
-
-Easy
-
-Min Cost Climbing Stairs
-
-Easy
-
-House Robber
-
-Medium
-
-Domino and Tromino Tiling
-
-Medium
-
-DP - Multidimensional
-
-Unique Paths
-
-Medium
-
-Longest Common Subsequence
-
-Medium
-
-Best Time to Buy and Sell Stock with Transaction Fee
-
-Medium
-
-Edit Distance
-
-Medium
-
-Bit Manipulation
-
-Counting Bits
-
-Easy
-
-Single Number
-
-Easy
-
-Minimum Flips to Make a OR b Equal to c
-
-Medium
-
-Trie
-
-Implement Trie (Prefix Tree)
-
-Medium
-
-Search Suggestions System
-
-Medium
-
-Intervals
-
-Non-overlapping Intervals
-
-Medium
-
-Minimum Number of Arrows to Burst Balloons
-
-Medium
-
-Monotonic Stack
-
-Daily Temperatures
-
-Medium
-
-Online Stock Span
-
-Medium
-
+- [Online Stock Span](22_Monotonic_Stack/Online_Stock_Span.md) — Medium
