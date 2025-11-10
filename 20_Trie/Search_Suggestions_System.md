@@ -15,8 +15,6 @@ tags:
 
 # [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)
 
-[中文文档](/solution/1200-1299/1268.Search%20Suggestions%20System/README.md)
-
 ## Description
 
 <p>You are given an array of strings <code>products</code> and a string <code>searchWord</code>.</p>
@@ -25,7 +23,6 @@ tags:
 
 <p>Return <em>a list of lists of the suggested products after each character of </em><code>searchWord</code><em> is typed</em>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -44,7 +41,6 @@ After typing mou, mous and mouse the system suggests [&quot;mouse&quot;,&quot;mo
 <strong>Explanation:</strong> The only word &quot;havana&quot; will be always suggested while typing the search word.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

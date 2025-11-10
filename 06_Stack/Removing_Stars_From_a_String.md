@@ -12,8 +12,6 @@ tags:
 
 # [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)
 
-[中文文档](/solution/2300-2399/2390.Removing%20Stars%20From%20a%20String/README.md)
-
 ## Description
 
 <p>You are given a string <code>s</code>, which contains stars <code>*</code>.</p>
@@ -34,7 +32,6 @@ tags:
 	<li>It can be shown that the resulting string will always be unique.</li>
 </ul>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -54,7 +51,6 @@ There are no more stars, so we return &quot;lecoe&quot;.</pre>
 <strong>Explanation:</strong> The entire string is removed, so we return an empty string.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

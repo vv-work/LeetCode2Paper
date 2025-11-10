@@ -10,8 +10,6 @@ tags:
 
 # [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)
 
-[中文文档](/solution/0400-0499/0450.Delete%20Node%20in%20a%20BST/README.md)
-
 ## Description
 
 <p>Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return <em>the <strong>root node reference</strong> (possibly updated) of the BST</em>.</p>
@@ -23,7 +21,6 @@ tags:
 	<li>If the node is found, delete the node.</li>
 </ol>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/solution/0400-0499/0450.Delete%20Node%20in%20a%20BST/images/del_node_1.jpg" style="width: 800px; height: 214px;" />
 <pre>
@@ -50,7 +47,6 @@ Please notice that another valid answer is [5,2,6,null,4,null,7] and it&#39;s al
 <strong>Output:</strong> []
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
@@ -61,7 +57,6 @@ Please notice that another valid answer is [5,2,6,null,4,null,7] and it&#39;s al
 	<li><code>-10<sup>5</sup> &lt;= key &lt;= 10<sup>5</sup></code></li>
 </ul>
 
-<p>&nbsp;</p>
 <p><strong>Follow up:</strong> Could you solve it with time complexity <code>O(height of tree)</code>?</p>
 
 ## Solutions

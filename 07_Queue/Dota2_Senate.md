@@ -10,8 +10,6 @@ tags:
 
 # [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate)
 
-[中文文档](/solution/0600-0699/0649.Dota2%20Senate/README.md)
-
 ## Description
 
 <p>In the world of Dota2, there are two parties: the Radiant and the Dire.</p>
@@ -29,7 +27,6 @@ tags:
 
 <p>Suppose every senator is smart enough and will play the best strategy for his own party. Predict which party will finally announce the victory and change the Dota2 game. The output should be <code>&quot;Radiant&quot;</code> or <code>&quot;Dire&quot;</code>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -53,7 +50,6 @@ And the third senator comes from Dire and he can ban the first senator&#39;s rig
 And in round 2, the third senator can just announce the victory since he is the only guy in the senate who can vote.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

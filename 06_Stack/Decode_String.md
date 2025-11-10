@@ -10,8 +10,6 @@ tags:
 
 # [394. Decode String](https://leetcode.com/problems/decode-string)
 
-[中文文档](/solution/0300-0399/0394.Decode%20String/README.md)
-
 ## Description
 
 <p>Given an encoded string, return its decoded string.</p>
@@ -22,7 +20,6 @@ tags:
 
 <p>The test cases are generated so that the length of the output will never exceed <code>10<sup>5</sup></code>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -44,7 +41,6 @@ tags:
 <strong>Output:</strong> &quot;abcabccdcdcdef&quot;
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

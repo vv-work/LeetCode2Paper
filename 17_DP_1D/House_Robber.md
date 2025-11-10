@@ -9,15 +9,12 @@ tags:
 
 # [198. House Robber](https://leetcode.com/problems/house-robber)
 
-[中文文档](/solution/0100-0199/0198.House%20Robber/README.md)
-
 ## Description
 
 <p>You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and <b>it will automatically contact the police if two adjacent houses were broken into on the same night</b>.</p>
 
 <p>Given an integer array <code>nums</code> representing the amount of money of each house, return <em>the maximum amount of money you can rob tonight <b>without alerting the police</b></em>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -36,7 +33,6 @@ Total amount you can rob = 1 + 3 = 4.
 Total amount you can rob = 2 + 9 + 1 = 12.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

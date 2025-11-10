@@ -12,8 +12,6 @@ tags:
 
 # [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)
 
-[中文文档](/solution/1100-1199/1137.N-th%20Tribonacci%20Number/README.md)
-
 ## Description
 
 <p>The Tribonacci sequence T<sub>n</sub> is defined as follows:&nbsp;</p>
@@ -22,7 +20,6 @@ tags:
 
 <p>Given <code>n</code>, return the value of T<sub>n</sub>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -40,7 +37,6 @@ T_4 = 1 + 1 + 2 = 4
 <strong>Output:</strong> 1389537
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

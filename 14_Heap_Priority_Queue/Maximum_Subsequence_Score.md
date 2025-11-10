@@ -13,8 +13,6 @@ tags:
 
 # [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score)
 
-[中文文档](/solution/2500-2599/2542.Maximum%20Subsequence%20Score/README.md)
-
 ## Description
 
 <p>You are given two <strong>0-indexed</strong> integer arrays <code>nums1</code> and <code>nums2</code> of equal length <code>n</code> and a positive integer <code>k</code>. You must choose a <strong>subsequence</strong> of indices from <code>nums1</code> of length <code>k</code>.</p>
@@ -30,7 +28,6 @@ tags:
 
 <p>A <strong>subsequence</strong> of indices of an array is a set that can be derived from the set <code>{0, 1, ..., n-1}</code> by deleting some or no elements.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -54,7 +51,6 @@ Therefore, we return the max score, which is 12.
 Choosing index 2 is optimal: nums1[2] * nums2[2] = 3 * 10 = 30 is the maximum possible score.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

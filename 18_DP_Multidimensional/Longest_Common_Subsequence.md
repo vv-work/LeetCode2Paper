@@ -9,8 +9,6 @@ tags:
 
 # [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
 
-[中文文档](/solution/1100-1199/1143.Longest%20Common%20Subsequence/README.md)
-
 ## Description
 
 <p>Given two strings <code>text1</code> and <code>text2</code>, return <em>the length of their longest <strong>common subsequence</strong>. </em>If there is no <strong>common subsequence</strong>, return <code>0</code>.</p>
@@ -23,7 +21,6 @@ tags:
 
 <p>A <strong>common subsequence</strong> of two strings is a subsequence that is common to both strings.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -48,7 +45,6 @@ tags:
 <strong>Explanation:</strong> There is no such common subsequence, so the result is 0.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

@@ -14,8 +14,6 @@ tags:
 
 # [399. Evaluate Division](https://leetcode.com/problems/evaluate-division)
 
-[中文文档](/solution/0300-0399/0399.Evaluate%20Division/README.md)
-
 ## Description
 
 <p>You are given an array of variable pairs <code>equations</code> and an array of real numbers <code>values</code>, where <code>equations[i] = [A<sub>i</sub>, B<sub>i</sub>]</code> and <code>values[i]</code> represent the equation <code>A<sub>i</sub> / B<sub>i</sub> = values[i]</code>. Each <code>A<sub>i</sub></code> or <code>B<sub>i</sub></code> is a string that represents a single variable.</p>
@@ -28,7 +26,6 @@ tags:
 
 <p><strong>Note:&nbsp;</strong>The variables that do not occur in the list of equations are undefined, so the answer cannot be determined for them.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -54,7 +51,6 @@ note: x is undefined =&gt; -1.0</pre>
 <strong>Output:</strong> [0.50000,2.00000,-1.00000,-1.00000]
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

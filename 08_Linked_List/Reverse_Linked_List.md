@@ -9,13 +9,10 @@ tags:
 
 # [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 
-[中文文档](/solution/0200-0299/0206.Reverse%20Linked%20List/README.md)
-
 ## Description
 
 <p>Given the <code>head</code> of a singly linked list, reverse the list, and return <em>the reversed list</em>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/solution/0200-0299/0206.Reverse%20Linked%20List/images/rev1ex1.jpg" style="width: 542px; height: 222px;" />
 <pre>
@@ -37,7 +34,6 @@ tags:
 <strong>Output:</strong> []
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
@@ -45,7 +41,6 @@ tags:
 	<li><code>-5000 &lt;= Node.val &lt;= 5000</code></li>
 </ul>
 
-<p>&nbsp;</p>
 <p><strong>Follow up:</strong> A linked list can be reversed either iteratively or recursively. Could you implement both?</p>
 
 ## Solutions

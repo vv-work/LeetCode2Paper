@@ -9,8 +9,6 @@ tags:
 
 # [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)
 
-[中文文档](/solution/0100-0199/0162.Find%20Peak%20Element/README.md)
-
 ## Description
 
 <p>A peak element is an element that is strictly greater than its neighbors.</p>
@@ -21,7 +19,6 @@ tags:
 
 <p>You must write an algorithm that runs in <code>O(log n)</code> time.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -36,7 +33,6 @@ tags:
 <strong>Output:</strong> 5
 <strong>Explanation:</strong> Your function can return either index number 1 where the peak element is 2, or index number 5 where the peak element is 6.</pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

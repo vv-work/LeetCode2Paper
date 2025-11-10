@@ -10,8 +10,6 @@ tags:
 
 # [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 
-[中文文档](/solution/0000-0099/0011.Container%20With%20Most%20Water/README.md)
-
 ## Description
 
 <p>You are given an integer array <code>height</code> of length <code>n</code>. There are <code>n</code> vertical lines drawn such that the two endpoints of the <code>i<sup>th</sup></code> line are <code>(i, 0)</code> and <code>(i, height[i])</code>.</p>
@@ -22,7 +20,6 @@ tags:
 
 <p><strong>Notice</strong> that you may not slant the container.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0011.Container%20With%20Most%20Water/images/question_11.jpg" style="width: 600px; height: 287px;" />
 <pre>
@@ -38,7 +35,6 @@ tags:
 <strong>Output:</strong> 1
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

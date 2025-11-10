@@ -9,8 +9,6 @@ tags:
 
 # [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
 
-[中文文档](/solution/0100-0199/0151.Reverse%20Words%20in%20a%20String/README.md)
-
 ## Description
 
 <p>Given an input string <code>s</code>, reverse the order of the <strong>words</strong>.</p>
@@ -21,7 +19,6 @@ tags:
 
 <p><b>Note</b> that <code>s</code> may contain leading or trailing spaces or multiple spaces between two words. The returned string should only have a single space separating the words. Do not include any extra spaces.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -45,7 +42,6 @@ tags:
 <strong>Explanation:</strong> You need to reduce multiple spaces between two words to a single space in the reversed string.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
@@ -54,7 +50,6 @@ tags:
 	<li>There is <strong>at least one</strong> word in <code>s</code>.</li>
 </ul>
 
-<p>&nbsp;</p>
 <p><b data-stringify-type="bold">Follow-up:&nbsp;</b>If the string data type is mutable in your language, can&nbsp;you solve it&nbsp;<b data-stringify-type="bold">in-place</b>&nbsp;with&nbsp;<code data-stringify-type="code">O(1)</code>&nbsp;extra space?</p>
 
 ## Solutions

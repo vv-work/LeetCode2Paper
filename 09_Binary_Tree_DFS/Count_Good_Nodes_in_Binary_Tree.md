@@ -13,15 +13,11 @@ tags:
 
 # [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)
 
-[中文文档](/solution/1400-1499/1448.Count%20Good%20Nodes%20in%20Binary%20Tree/README.md)
-
 ## Description
 
 <p>Given a binary tree <code>root</code>, a node <em>X</em> in the tree is named&nbsp;<strong>good</strong> if in the path from root to <em>X</em> there are no nodes with a value <em>greater than</em> X.</p>
 
 <p>Return the number of <strong>good</strong> nodes in the binary tree.</p>
-
-<p>&nbsp;</p>
 
 <p><strong class="example">Example 1:</strong></p>
 
@@ -64,8 +60,6 @@ Node 3 -&gt; (3,1,3) is the maximum value in the path.</pre>
 <strong>Output:</strong> 1
 
 <strong>Explanation:</strong> Root is considered as <strong>good</strong>.</pre>
-
-<p>&nbsp;</p>
 
 <p><strong>Constraints:</strong></p>
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Array_String/Can_Place_Flowers.md",
+                "file": "08_Linked_List/Delete_the_Middle_Node_of_a_Linked_List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Can_Place_Flowers"
+              "title": "Delete_the_Middle_Node_of_a_Linked_List"
             }
           }
         ]
@@ -170,5 +170,28 @@
     }
   },
   "active": "4ce778f4fa5963e1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "08_Linked_List/Maximum_Twin_Sum_of_a_Linked_List.md",
+    "09_Binary_Tree_DFS/Longest_ZigZag_Path_in_a_Binary_Tree.md",
+    "09_Binary_Tree_DFS/Maximum_Depth_of_Binary_Tree.md",
+    "18_DP_Multidimensional/Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.md",
+    "18_DP_Multidimensional/Longest_Common_Subsequence.md",
+    "18_DP_Multidimensional/Unique_Paths.md",
+    "18_DP_Multidimensional/Edit_Distance.md",
+    "09_Binary_Tree_DFS/Lowest_Common_Ancestor_of_a_Binary_Tree.md",
+    "09_Binary_Tree_DFS/Count_Good_Nodes_in_Binary_Tree.md",
+    "07_Queue/Number_of_Recent_Calls.md",
+    "07_Queue/Dota2_Senate.md",
+    "06_Stack/Removing_Stars_From_a_String.md",
+    "06_Stack/Asteroid_Collision.md",
+    "06_Stack/Decode_String.md",
+    "08_Linked_List/Odd_Even_Linked_List.md",
+    "08_Linked_List/Delete_the_Middle_Node_of_a_Linked_List.md",
+    "14_Heap_Priority_Queue/Smallest_Number_in_Infinite_Set.md",
+    "14_Heap_Priority_Queue/Maximum_Subsequence_Score.md",
+    "14_Heap_Priority_Queue/Kth_Largest_Element_in_an_Array.md",
+    "14_Heap_Priority_Queue/Total_Cost_to_Hire_K_Workers.md",
+    "Total_Cost_to_Hire_K_Workers.pdf",
+    "01_Array_String/Can_Place_Flowers.md"
+  ]
 }

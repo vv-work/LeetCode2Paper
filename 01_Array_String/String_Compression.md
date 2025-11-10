@@ -9,8 +9,6 @@ tags:
 
 # [443. String Compression](https://leetcode.com/problems/string-compression)
 
-[中文文档](/solution/0400-0499/0443.String%20Compression/README.md)
-
 ## Description
 
 <p>Given an array of characters <code>chars</code>, compress it using the following algorithm:</p>
@@ -30,7 +28,6 @@ tags:
 
 <p><strong>Note: </strong>The characters in the array beyond the returned length do not matter and should be ignored.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -54,7 +51,6 @@ tags:
 <strong>Output:</strong> Return 4, and the first 4 characters of the input array should be: [&quot;a&quot;,&quot;b&quot;,&quot;1&quot;,&quot;2&quot;].
 <strong>Explanation:</strong> The groups are &quot;a&quot; and &quot;bbbbbbbbbbbb&quot;. This compresses to &quot;ab12&quot;.</pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

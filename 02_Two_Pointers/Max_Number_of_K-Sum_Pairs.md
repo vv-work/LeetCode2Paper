@@ -13,8 +13,6 @@ tags:
 
 # [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)
 
-[中文文档](/solution/1600-1699/1679.Max%20Number%20of%20K-Sum%20Pairs/README.md)
-
 ## Description
 
 <p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
@@ -23,7 +21,6 @@ tags:
 
 <p>Return <em>the maximum number of operations you can perform on the array</em>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -43,7 +40,6 @@ There are no more pairs that sum up to 5, hence a total of 2 operations.</pre>
 - Remove the first two 3&#39;s, then nums = [1,4,3]
 There are no more pairs that sum up to 6, hence a total of 1 operation.</pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

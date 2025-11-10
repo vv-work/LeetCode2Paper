@@ -9,15 +9,12 @@ tags:
 
 # [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)
 
-[中文文档](/solution/0600-0699/0643.Maximum%20Average%20Subarray%20I/README.md)
-
 ## Description
 
 <p>You are given an integer array <code>nums</code> consisting of <code>n</code> elements, and an integer <code>k</code>.</p>
 
 <p>Find a contiguous subarray whose <strong>length is equal to</strong> <code>k</code> that has the maximum average value and return <em>this value</em>. Any answer with a calculation error less than <code>10<sup>-5</sup></code> will be accepted.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -33,7 +30,6 @@ tags:
 <strong>Output:</strong> 5.00000
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

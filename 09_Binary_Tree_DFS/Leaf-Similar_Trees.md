@@ -10,8 +10,6 @@ tags:
 
 # [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
 
-[中文文档](/solution/0800-0899/0872.Leaf-Similar%20Trees/README.md)
-
 ## Description
 
 <p>Consider all the leaves of a binary tree, from&nbsp;left to right order, the values of those&nbsp;leaves form a <strong>leaf value sequence</strong><em>.</em></p>
@@ -24,7 +22,6 @@ tags:
 
 <p>Return <code>true</code> if and only if the two given trees with head nodes <code>root1</code> and <code>root2</code> are leaf-similar.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/solution/0800-0899/0872.Leaf-Similar%20Trees/images/leaf-similar-1.jpg" style="width: 600px; height: 237px;" />
 <pre>
@@ -39,7 +36,6 @@ tags:
 <strong>Output:</strong> false
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

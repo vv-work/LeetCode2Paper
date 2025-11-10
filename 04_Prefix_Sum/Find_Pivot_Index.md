@@ -9,8 +9,6 @@ tags:
 
 # [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index)
 
-[中文文档](/solution/0700-0799/0724.Find%20Pivot%20Index/README.md)
-
 ## Description
 
 <p>Given an array of integers <code>nums</code>, calculate the <strong>pivot index</strong> of this array.</p>
@@ -21,7 +19,6 @@ tags:
 
 <p>Return <em>the <strong>leftmost pivot index</strong></em>. If no such index exists, return <code>-1</code>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -52,7 +49,6 @@ Left sum = 0 (no elements to the left of index 0)
 Right sum = nums[1] + nums[2] = 1 + -1 = 0
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
@@ -60,7 +56,6 @@ Right sum = nums[1] + nums[2] = 1 + -1 = 0
 	<li><code>-1000 &lt;= nums[i] &lt;= 1000</code></li>
 </ul>
 
-<p>&nbsp;</p>
 <p><strong>Note:</strong> This question is the same as&nbsp;1991:&nbsp;<a href="https://leetcode.com/problems/find-the-middle-index-in-array/" target="_blank">https://leetcode.com/problems/find-the-middle-index-in-array/</a></p>
 
 ## Solutions

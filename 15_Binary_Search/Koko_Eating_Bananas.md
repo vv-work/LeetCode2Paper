@@ -9,8 +9,6 @@ tags:
 
 # [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
 
-[中文文档](/solution/0800-0899/0875.Koko%20Eating%20Bananas/README.md)
-
 ## Description
 
 <p>Koko loves to eat bananas. There are <code>n</code> piles of bananas, the <code>i<sup>th</sup></code> pile has <code>piles[i]</code> bananas. The guards have gone and will come back in <code>h</code> hours.</p>
@@ -21,7 +19,6 @@ tags:
 
 <p>Return <em>the minimum integer</em> <code>k</code> <em>such that she can eat all the bananas within</em> <code>h</code> <em>hours</em>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -43,7 +40,6 @@ tags:
 <strong>Output:</strong> 23
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

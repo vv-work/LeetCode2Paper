@@ -10,8 +10,6 @@ tags:
 
 # [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
 
-[中文文档](/solution/0800-0899/0841.Keys%20and%20Rooms/README.md)
-
 ## Description
 
 <p>There are <code>n</code> rooms labeled from <code>0</code> to <code>n - 1</code>&nbsp;and all the rooms are locked except for room <code>0</code>. Your goal is to visit all the rooms. However, you cannot enter a locked room without having its key.</p>
@@ -20,7 +18,6 @@ tags:
 
 <p>Given an array <code>rooms</code> where <code>rooms[i]</code> is the set of keys that you can obtain if you visited room <code>i</code>, return <code>true</code> <em>if you can visit <strong>all</strong> the rooms, or</em> <code>false</code> <em>otherwise</em>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -42,7 +39,6 @@ Since we were able to visit every room, we return true.
 <strong>Explanation:</strong> We can not enter room number 2 since the only key that unlocks it is in that room.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

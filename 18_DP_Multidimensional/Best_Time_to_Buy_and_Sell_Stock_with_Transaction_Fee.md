@@ -10,8 +10,6 @@ tags:
 
 # [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)
 
-[中文文档](/solution/0700-0799/0714.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee/README.md)
-
 ## Description
 
 <p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day, and an integer <code>fee</code> representing a transaction fee.</p>
@@ -25,7 +23,6 @@ tags:
 	<li>The transaction fee is only charged once for each stock purchase and sale.</li>
 </ul>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -46,7 +43,6 @@ The total profit is ((8 - 1) - 2) + ((9 - 4) - 2) = 8.
 <strong>Output:</strong> 6
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

@@ -10,8 +10,6 @@ tags:
 
 # [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)
 
-[中文文档](/solution/1400-1499/1431.Kids%20With%20the%20Greatest%20Number%20of%20Candies/README.md)
-
 ## Description
 
 <p>There are <code>n</code> kids with candies. You are given an integer array <code>candies</code>, where each <code>candies[i]</code> represents the number of candies the <code>i<sup>th</sup></code> kid has, and an integer <code>extraCandies</code>, denoting the number of extra candies that you have.</p>
@@ -20,7 +18,6 @@ tags:
 
 <p>Note that <strong>multiple</strong> kids can have the <strong>greatest</strong> number of candies.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -50,7 +47,6 @@ Kid 1 will always have the greatest number of candies, even if a different kid i
 <strong>Output:</strong> [true,false,true]
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

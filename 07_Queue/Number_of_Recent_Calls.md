@@ -10,8 +10,6 @@ tags:
 
 # [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)
 
-[中文文档](/solution/0900-0999/0933.Number%20of%20Recent%20Calls/README.md)
-
 ## Description
 
 <p>You have a <code>RecentCounter</code> class which counts the number of recent requests within a certain time frame.</p>
@@ -25,7 +23,6 @@ tags:
 
 <p>It is <strong>guaranteed</strong> that every call to <code>ping</code> uses a strictly larger value of <code>t</code> than the previous call.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -43,7 +40,6 @@ recentCounter.ping(3001);  // requests = [<u>1</u>, <u>100</u>, <u>3001</u>], ra
 recentCounter.ping(3002);  // requests = [1, <u>100</u>, <u>3001</u>, <u>3002</u>], range is [2,3002], return 3
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

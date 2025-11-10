@@ -10,8 +10,6 @@ tags:
 
 # [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
 
-[中文文档](/solution/0700-0799/0735.Asteroid%20Collision/README.md)
-
 ## Description
 
 <p>We are given an array <code>asteroids</code> of integers representing asteroids in a row. The indices of the asteroid in the array represent their relative position in space.</p>
@@ -20,7 +18,6 @@ tags:
 
 <p>Find out the state of the asteroids after all collisions. If two asteroids meet, the smaller one will explode. If both are the same size, both will explode. Two asteroids moving in the same direction will never meet.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -53,7 +50,6 @@ tags:
 <strong>Explanation:</strong> The asteroid -6 makes the asteroid 3 and 5 explode, and then continues going left. On the other side, the asteroid 2 makes the asteroid -1 explode and then continues going right, without reaching asteroid 4.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

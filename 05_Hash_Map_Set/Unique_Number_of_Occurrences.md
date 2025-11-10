@@ -11,13 +11,10 @@ tags:
 
 # [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
 
-[中文文档](/solution/1200-1299/1207.Unique%20Number%20of%20Occurrences/README.md)
-
 ## Description
 
 <p>Given an array of integers <code>arr</code>, return <code>true</code> <em>if the number of occurrences of each value in the array is <strong>unique</strong> or </em><code>false</code><em> otherwise</em>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -39,7 +36,6 @@ tags:
 <strong>Output:</strong> true
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

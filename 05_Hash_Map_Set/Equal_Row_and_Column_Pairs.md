@@ -13,15 +13,12 @@ tags:
 
 # [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)
 
-[中文文档](/solution/2300-2399/2352.Equal%20Row%20and%20Column%20Pairs/README.md)
-
 ## Description
 
 <p>Given a <strong>0-indexed</strong> <code>n x n</code> integer matrix <code>grid</code>, <em>return the number of pairs </em><code>(r<sub>i</sub>, c<sub>j</sub>)</code><em> such that row </em><code>r<sub>i</sub></code><em> and column </em><code>c<sub>j</sub></code><em> are equal</em>.</p>
 
 <p>A row and column pair is considered equal if they contain the same elements in the same order (i.e., an equal array).</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/solution/2300-2399/2352.Equal%20Row%20and%20Column%20Pairs/images/ex1.jpg" style="width: 150px; height: 153px;" />
 <pre>
@@ -42,7 +39,6 @@ tags:
 - (Row 3, Column 2): [2,4,2,2]
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

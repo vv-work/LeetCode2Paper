@@ -13,8 +13,6 @@ tags:
 
 # [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers)
 
-[中文文档](/solution/2400-2499/2462.Total%20Cost%20to%20Hire%20K%20Workers/README.md)
-
 ## Description
 
 <p>You are given a <strong>0-indexed</strong> integer array <code>costs</code> where <code>costs[i]</code> is the cost of hiring the <code>i<sup>th</sup></code> worker.</p>
@@ -35,7 +33,6 @@ tags:
 
 <p>Return <em>the total cost to hire exactly </em><code>k</code><em> workers.</em></p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -60,7 +57,6 @@ The total hiring cost is 11.
 The total hiring cost is 4.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

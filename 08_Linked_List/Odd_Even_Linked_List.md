@@ -8,8 +8,6 @@ tags:
 
 # [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 
-[中文文档](/solution/0300-0399/0328.Odd%20Even%20Linked%20List/README.md)
-
 ## Description
 
 <p>Given the <code>head</code> of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return <em>the reordered list</em>.</p>
@@ -20,7 +18,6 @@ tags:
 
 <p>You must solve the problem&nbsp;in <code>O(1)</code>&nbsp;extra space complexity and <code>O(n)</code> time complexity.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/solution/0300-0399/0328.Odd%20Even%20Linked%20List/images/oddeven-linked-list.jpg" style="width: 300px; height: 123px;" />
 <pre>
@@ -35,7 +32,6 @@ tags:
 <strong>Output:</strong> [2,3,6,7,1,5,4]
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

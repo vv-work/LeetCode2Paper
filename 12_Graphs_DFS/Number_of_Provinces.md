@@ -11,8 +11,6 @@ tags:
 
 # [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces)
 
-[中文文档](/solution/0500-0599/0547.Number%20of%20Provinces/README.md)
-
 ## Description
 
 <p>There are <code>n</code> cities. Some of them are connected, while some are not. If city <code>a</code> is connected directly with city <code>b</code>, and city <code>b</code> is connected directly with city <code>c</code>, then city <code>a</code> is connected indirectly with city <code>c</code>.</p>
@@ -23,7 +21,6 @@ tags:
 
 <p>Return <em>the total number of <strong>provinces</strong></em>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/solution/0500-0599/0547.Number%20of%20Provinces/images/graph1.jpg" style="width: 222px; height: 142px;" />
 <pre>
@@ -38,7 +35,6 @@ tags:
 <strong>Output:</strong> 3
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

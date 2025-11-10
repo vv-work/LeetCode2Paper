@@ -12,8 +12,6 @@ tags:
 
 # [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 
-[中文文档](/solution/0200-0299/0215.Kth%20Largest%20Element%20in%20an%20Array/README.md)
-
 ## Description
 
 <p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the</em> <code>k<sup>th</sup></code> <em>largest element in the array</em>.</p>
@@ -22,7 +20,6 @@ tags:
 
 <p>Can you solve it without sorting?</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <pre><strong>Input:</strong> nums = [3,2,1,5,6,4], k = 2
 <strong>Output:</strong> 5
@@ -30,7 +27,6 @@ tags:
 <pre><strong>Input:</strong> nums = [3,2,3,1,2,4,5,5,6], k = 4
 <strong>Output:</strong> 4
 </pre>
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

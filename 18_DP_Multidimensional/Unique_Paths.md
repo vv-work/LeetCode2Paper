@@ -10,8 +10,6 @@ tags:
 
 # [62. Unique Paths](https://leetcode.com/problems/unique-paths)
 
-[中文文档](/solution/0000-0099/0062.Unique%20Paths/README.md)
-
 ## Description
 
 <p>There is a robot on an <code>m x n</code> grid. The robot is initially located at the <strong>top-left corner</strong> (i.e., <code>grid[0][0]</code>). The robot tries to move to the <strong>bottom-right corner</strong> (i.e., <code>grid[m - 1][n - 1]</code>). The robot can only move either down or right at any point in time.</p>
@@ -20,7 +18,6 @@ tags:
 
 <p>The test cases are generated so that the answer will be less than or equal to <code>2 * 10<sup>9</sup></code>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0062.Unique%20Paths/images/robot_maze.png" style="width: 400px; height: 183px;" />
 <pre>
@@ -39,7 +36,6 @@ tags:
 3. Down -&gt; Right -&gt; Down
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

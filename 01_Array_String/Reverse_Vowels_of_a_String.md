@@ -9,21 +9,18 @@ tags:
 
 # [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)
 
-[中文文档](/solution/0300-0399/0345.Reverse%20Vowels%20of%20a%20String/README.md)
-
 ## Description
 
 <p>Given a string <code>s</code>, reverse only all the vowels in the string and return it.</p>
 
 <p>The vowels are <code>&#39;a&#39;</code>, <code>&#39;e&#39;</code>, <code>&#39;i&#39;</code>, <code>&#39;o&#39;</code>, and <code>&#39;u&#39;</code>, and they can appear in both lower and upper cases, more than once.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">s = &quot;IceCreAm&quot;</span></p>
+<p><strong>Input:</strong> s = &quot;IceCreAm&quot;</p>
 
-<p><strong>Output:</strong> <span class="example-io">&quot;AceCreIm&quot;</span></p>
+<p><strong>Output:</strong> &quot;AceCreIm&quot;</p>
 
 <p><strong>Explanation:</strong></p>
 
@@ -33,12 +30,11 @@ tags:
 <p><strong class="example">Example 2:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">s = &quot;leetcode&quot;</span></p>
+<p><strong>Input:</strong> s = &quot;leetcode&quot;</p>
 
-<p><strong>Output:</strong> <span class="example-io">&quot;leotcede&quot;</span></p>
+<p><strong>Output:</strong> &quot;leotcede&quot;</p>
 </div>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

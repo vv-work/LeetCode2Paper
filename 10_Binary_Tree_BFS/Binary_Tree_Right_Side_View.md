@@ -11,19 +11,16 @@ tags:
 
 # [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 
-[中文文档](/solution/0100-0199/0199.Binary%20Tree%20Right%20Side%20View/README.md)
-
 ## Description
 
 <p>Given the <code>root</code> of a binary tree, imagine yourself standing on the <strong>right side</strong> of it, return <em>the values of the nodes you can see ordered from top to bottom</em>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">root = [1,2,3,null,5,null,4]</span></p>
+<p><strong>Input:</strong> root = [1,2,3,null,5,null,4]</p>
 
-<p><strong>Output:</strong> <span class="example-io">[1,3,4]</span></p>
+<p><strong>Output:</strong> [1,3,4]</p>
 
 <p><strong>Explanation:</strong></p>
 
@@ -33,9 +30,9 @@ tags:
 <p><strong class="example">Example 2:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">root = [1,2,3,4,null,null,null,5]</span></p>
+<p><strong>Input:</strong> root = [1,2,3,4,null,null,null,5]</p>
 
-<p><strong>Output:</strong> <span class="example-io">[1,3,4,5]</span></p>
+<p><strong>Output:</strong> [1,3,4,5]</p>
 
 <p><strong>Explanation:</strong></p>
 
@@ -45,20 +42,19 @@ tags:
 <p><strong class="example">Example 3:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">root = [1,null,3]</span></p>
+<p><strong>Input:</strong> root = [1,null,3]</p>
 
-<p><strong>Output:</strong> <span class="example-io">[1,3]</span></p>
+<p><strong>Output:</strong> [1,3]</p>
 </div>
 
 <p><strong class="example">Example 4:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">root = []</span></p>
+<p><strong>Input:</strong> root = []</p>
 
-<p><strong>Output:</strong> <span class="example-io">[]</span></p>
+<p><strong>Output:</strong> []</p>
 </div>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

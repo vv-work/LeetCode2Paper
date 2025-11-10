@@ -11,8 +11,6 @@ tags:
 
 # [901. Online Stock Span](https://leetcode.com/problems/online-stock-span)
 
-[中文文档](/solution/0900-0999/0901.Online%20Stock%20Span/README.md)
-
 ## Description
 
 <p>Design an algorithm that collects daily price quotes for some stock and returns <strong>the span</strong> of that stock&#39;s price for the current day.</p>
@@ -31,7 +29,6 @@ tags:
 	<li><code>int next(int price)</code> Returns the <strong>span</strong> of the stock&#39;s price given that today&#39;s price is <code>price</code>.</li>
 </ul>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -52,7 +49,6 @@ stockSpanner.next(75);  // return 4, because the last 4 prices (including today&
 stockSpanner.next(85);  // return 6
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

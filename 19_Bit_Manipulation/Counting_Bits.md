@@ -9,13 +9,10 @@ tags:
 
 # [338. Counting Bits](https://leetcode.com/problems/counting-bits)
 
-[中文文档](/solution/0300-0399/0338.Counting%20Bits/README.md)
-
 ## Description
 
 <p>Given an integer <code>n</code>, return <em>an array </em><code>ans</code><em> of length </em><code>n + 1</code><em> such that for each </em><code>i</code><em> </em>(<code>0 &lt;= i &lt;= n</code>)<em>, </em><code>ans[i]</code><em> is the <strong>number of </strong></em><code>1</code><em><strong>&#39;s</strong> in the binary representation of </em><code>i</code>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -41,14 +38,12 @@ tags:
 5 --&gt; 101
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>0 &lt;= n &lt;= 10<sup>5</sup></code></li>
 </ul>
 
-<p>&nbsp;</p>
 <p><strong>Follow up:</strong></p>
 
 <ul>

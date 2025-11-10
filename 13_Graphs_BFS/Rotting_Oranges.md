@@ -10,8 +10,6 @@ tags:
 
 # [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
 
-[中文文档](/solution/0900-0999/0994.Rotting%20Oranges/README.md)
-
 ## Description
 
 <p>You are given an <code>m x n</code> <code>grid</code> where each cell can have one of three values:</p>
@@ -26,7 +24,6 @@ tags:
 
 <p>Return <em>the minimum number of minutes that must elapse until no cell has a fresh orange</em>. If <em>this is impossible, return</em> <code>-1</code>.</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0994.Rotting%20Oranges/images/oranges.png" style="width: 650px; height: 137px;" />
 <pre>
@@ -50,7 +47,6 @@ tags:
 <strong>Explanation:</strong> Since there are already no fresh oranges at minute 0, the answer is just 0.
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>

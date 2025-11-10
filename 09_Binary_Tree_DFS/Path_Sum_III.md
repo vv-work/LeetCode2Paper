@@ -10,15 +10,12 @@ tags:
 
 # [437. Path Sum III](https://leetcode.com/problems/path-sum-iii)
 
-[中文文档](/solution/0400-0499/0437.Path%20Sum%20III/README.md)
-
 ## Description
 
 <p>Given the <code>root</code> of a binary tree and an integer <code>targetSum</code>, return <em>the number of paths where the sum of the values&nbsp;along the path equals</em>&nbsp;<code>targetSum</code>.</p>
 
 <p>The path does not need to start or end at the root or a leaf, but it must go downwards (i.e., traveling only from parent nodes to child nodes).</p>
 
-<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://fastly.jsdelivr.net/gh/doocs/leetcode@main/solution/0400-0499/0437.Path%20Sum%20III/images/pathsum3-1-tree.jpg" style="width: 450px; height: 386px;" />
 <pre>
@@ -34,7 +31,6 @@ tags:
 <strong>Output:</strong> 3
 </pre>
 
-<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
